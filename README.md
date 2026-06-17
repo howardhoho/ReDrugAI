@@ -1,4 +1,6 @@
 # ReDrugAI - Drug Repurposing Recommendation System
+[Hakathon page] (https://www.kaggle.com/competitions/bigquery-ai-hackathon/writeups/redrugai0421)
+
 ## Overview
 
 **ReDrugAI** is an AI-powered drug repurposing recommendation system built on Google BigQuery and BigQuery AI. The system leverages machine learning embeddings and vector similarity search to identify potential therapeutic applications for existing drugs in new disease contexts.
